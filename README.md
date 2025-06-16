@@ -20,7 +20,7 @@ The `response_quality_index.py` script calculates the quality of the response by
 The results from the above calculations are aggregated at the city level using the `aggregate_public_views_index_government_response_index.py` script. The example code provided demonstrates the aggregation on a monthly basis. Readers can modify the script to perform daily or yearly aggregations as needed.
 
 ## Note
-As required by Scientific Data, we have deposited an identical version of the code on Figshare. The Figshare release, however, additionally includes a pre-trained Word2Vec model file trained on the full corpus of leadership message board data, which enables direct parsing to generate the climate risk expressions of public views and government responses indices. The dataset is accessible at: https://doi.org/10.6084/m9.figshare.28120904.
+According to the requirements of the journal Scientific Data, we have uploaded an identical copy of the code to Figshare. The difference is that the code on Figshare includes a pre-trained word2vec file based on the full dataset of messages from the Message Board for Leaders, which can be directly used to generate the climate risk expressions of public views and government responses indices. The corresponding URL for Figshare is: https://doi.org/10.6084/m9.figshare.28120904.
 
 ## Cite
 Sun, X., Li, L., Shen, Y., Sheng, Y., Zhang, D., & Ji, Q. (2025). Climate risk expressions of public views and government responses in China. Scientific Data, 12(1), 1-10.
