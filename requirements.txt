@@ -1,0 +1,6 @@
+pandas
+jieba
+pkuseg
+numpy
+python-dateutil
+gensim
